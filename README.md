@@ -209,13 +209,6 @@ $ status
 - 🔗 Google Scholar: https://scholar.google.com/citations?hl=fr&user=kbnrlnkAAAAJ
 - 🔗 ResearchGate: https://www.researchgate.net/profile/Ilhem-Tahiri
 
----
-
-# GitHub Stats
-</div>
-
-
-
 
 ---
 
