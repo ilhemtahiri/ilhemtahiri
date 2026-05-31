@@ -259,11 +259,7 @@ $ status
 
 </div>
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhemtahiri&theme=algolia&hide_border=true" />
-
-</div>
 
 
 
