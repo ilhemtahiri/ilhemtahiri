@@ -19,29 +19,7 @@
 </div>
 
 ---
-# 💀 SYS://PRIVACY_NODE
 
-
-```bash
-root@ilhemtahiri:~$ access profile
-[ OK ]
-
-root@ilhemtahiri:~$ loading researcher profile...
-[██████████████████] 100%
-
-root@ilhemtahiri:~$ identity
-
-██╗██╗     ██╗  ██╗███████╗███╗   ███╗    ████████╗ █████╗ ██╗  ██╗██╗██████╗ ██╗
-██║██║     ██║  ██║██╔════╝████╗ ████║    ╚══██╔══╝██╔══██╗██║  ██║██║██╔══██╗██║
-██║██║     ███████║█████╗  ██╔████╔██║       ██║   ███████║███████║██║██████╔╝██║
-██║██║     ██╔══██║██╔══╝  ██║╚██╔╝██║       ██║   ██╔══██║██╔══██║██║██╔══██╗██║
-██║███████╗██║  ██║███████╗██║ ╚═╝ ██║       ██║   ██║  ██║██║  ██║██║██║  ██║██║
-╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝
-
-root@ilhemtahiri:~$ initializing security profile...
-root@ilhemtahiri:~$ loading threat intelligence...
-root@ilhemtahiri:~$ privacy engine ONLINE
-```
 
 ```
 
@@ -79,6 +57,32 @@ root@ilhemtahiri:~$ privacy engine ONLINE
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⡾⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠂⠀⠀⠀⠀⠀⠈⠛⠃⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
+
+# 💀 SYS://PRIVACY_NODE
+
+
+```bash
+root@ilhemtahiri:~$ access profile
+[ OK ]
+
+root@ilhemtahiri:~$ loading researcher profile...
+[██████████████████] 100%
+
+root@ilhemtahiri:~$ identity
+
+██╗██╗     ██╗  ██╗███████╗███╗   ███╗    ████████╗ █████╗ ██╗  ██╗██╗██████╗ ██╗
+██║██║     ██║  ██║██╔════╝████╗ ████║    ╚══██╔══╝██╔══██╗██║  ██║██║██╔══██╗██║
+██║██║     ███████║█████╗  ██╔████╔██║       ██║   ███████║███████║██║██████╔╝██║
+██║██║     ██╔══██║██╔══╝  ██║╚██╔╝██║       ██║   ██╔══██║██╔══██║██║██╔══██╗██║
+██║███████╗██║  ██║███████╗██║ ╚═╝ ██║       ██║   ██║  ██║██║  ██║██║██║  ██║██║
+╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝
+
+root@ilhemtahiri:~$ initializing security profile...
+root@ilhemtahiri:~$ loading threat intelligence...
+root@ilhemtahiri:~$ privacy engine ONLINE
+```
+
+
 
 
 # </> ⩇⩇:⩇⩇  initializing security_profile.py ...
